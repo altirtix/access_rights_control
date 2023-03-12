@@ -1,4 +1,5 @@
 # access_rights_control
+Generating Users and Rights for Simulating Access Control Models. \
 Access Control Models: MAC, DAC. \
 WPF, MVC Code Style. \
 Educational Project. 
